@@ -1,0 +1,10 @@
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/entity/OrderLineItems.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/OrderApplication.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/dto/OrderLineItemsDto.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/dto/OrderRequest.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/config/WebClientConfig.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/controller/OrderController.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/service/OrderService.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/entity/Order.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/repository/OrderRepository.java
+/Users/naksh/Desktop/Eclipse_files/microservices-project/order_service/src/main/java/com/project/order/dto/InventoryResponse.java
